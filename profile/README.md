@@ -37,4 +37,5 @@ It focus on simple installation and configuration.
 - Redis
 - FrankenPHP
 - Caddy
+- Symfony
 - and the server itself (cpu, ram, disk, ...)
